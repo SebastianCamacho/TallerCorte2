@@ -1,0 +1,9 @@
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Entity\obj\Debug\netstandard2.0\Entity.pdb

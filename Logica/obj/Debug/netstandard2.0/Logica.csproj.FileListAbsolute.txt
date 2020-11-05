@@ -1,0 +1,14 @@
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Logica\obj\Debug\netstandard2.0\Logica.pdb

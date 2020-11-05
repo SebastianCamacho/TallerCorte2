@@ -1,0 +1,62 @@
+<div class="Container">
+    <div class="Row">
+        <form class="">
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="Identificacion">Identificacion</label>
+                    <input type="text" class="form-control" [(ngModel)]="persona.identificacion" placeholder="0123456789" name="Identificacion"
+                        id="Identificacion" required>
+                </div>
+                <div class="col-6">
+                    <label for="nombre">Nombres</label>
+                    <input type="text" class="form-control" [(ngModel)]="persona.nombre" placeholder="Nombres" name="nombre" id="nombre" required>
+                </div>
+                <div class="col-6">
+                    <label for="Apellidos">Apellidos</label>
+                    <input type="text" class="form-control" [(ngModel)]="persona.apellidos" placeholder="Apellidos" name="Apellidos" id="Apellidos" required>
+                </div>
+                <div class="col-6">
+                    <label for="Sexo">Sexo</label>
+                    <select class="form-control" [(ngModel)]="persona.sexo" name="Sexo" id="Sexo" required>
+                        <option value="Femenino">Femenino</option>
+                        <option value="Masculino">Masculino</option>
+                    </select>
+                </div>
+                <div class="col-6">
+                    <label for="Edad">Edad</label>
+                    <input type="number" class="form-control" [(ngModel)]="persona.edad" placeholder="Edad" name="Edad" id="Edad" required>
+                </div>
+
+                <div class="col-6">
+                    <label for="Departamento">Departamento</label>
+                    <input type="text" class="form-control" [(ngModel)]="persona.departamento" placeholder="Departamento" name="Departamento"
+                        id="Departamento" required>
+                </div>
+                <div class="col-6">
+                    <label for="Ciudad">Ciudad</label>
+                    <input type="text" class="form-control" [(ngModel)]="persona.ciudad" placeholder="Ciudad" name="Ciudad" id="Ciudad" required>
+                </div>
+                <div class="col-6">
+                    <label for="ValorDeApoyo">Valor De Apoyo</label>
+                    <input type="number" class="form-control" [(ngModel)]="ayuda.valorApoyo" placeholder="ValorApoyo" name="ValorDeApoyo" id="ValorDeApoyo" required>
+                </div>
+                <div class="col-6">
+                    <label for="Modalidad">Modalidad de apoyo</label>
+                    <select class="form-control" [(ngModel)]="ayuda.modalidadApoyo" name="Modalidad" id="Modalidad" required>
+                        <option value="Alimentario">Alimentario</option>
+                        <option value="Economico">Economico</option>
+                    </select>
+                </div>
+                <div class="col-6">
+                    <label for="Fecha">Fecha</label>
+                    <input type="date" class="form-control" [(ngModel)]="ayuda.fecha" id="Fecha" name="Fecha" value="2020-10-06"
+                        min="2020-01-01" max="2021-12-31" required>
+                </div>
+                <div class="col-12 justify-content-center">
+                    <button class="btn btn-dark btn-block mt-4" (click)="add()" >Registrar</button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

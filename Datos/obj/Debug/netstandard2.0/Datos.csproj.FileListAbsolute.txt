@@ -1,0 +1,12 @@
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\juan_\OneDrive\Escritorio\U2020-2\Programacion bajo web\Ejercisios\Ayudas\Datos\obj\Debug\netstandard2.0\Datos.pdb
